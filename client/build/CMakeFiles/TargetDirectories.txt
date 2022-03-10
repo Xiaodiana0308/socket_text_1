@@ -1,0 +1,3 @@
+/home/wxq/work/wangluoanquan/socket2/client/build/CMakeFiles/rebuild_cache.dir
+/home/wxq/work/wangluoanquan/socket2/client/build/CMakeFiles/edit_cache.dir
+/home/wxq/work/wangluoanquan/socket2/client/build/CMakeFiles/main.dir
